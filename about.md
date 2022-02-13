@@ -1,9 +1,11 @@
 ---
 layout: about
-image: /assets/img/me/logo_v.jpg
+image: /assets/img/me/logo_v2.jpg
 description: >
-    풀스택 개발자를 꿈꾸고 있는 초보개발자입니다.
+    풀스택 개발자를 꿈꾸고 있는 초보개발자
 hide_description: true
+redirect_from:
+    - /download/
 ---
 
 # About
